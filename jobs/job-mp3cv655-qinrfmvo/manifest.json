@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp3cv655-qinrfmvo",
+  "source_url": "https://dhruvmirrorpremium0-9d786801cf0f.herokuapp.com/72684/Snispoof.mp4?hash=AgADkg",
+  "created_at_utc": "2026-05-13T01:03:27Z",
+  "mode": "single",
+  "total_size_bytes": 59621741,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp3cv655-qinrfmvo/file.bin",
+  "chunks_path_prefix": "jobs/job-mp3cv655-qinrfmvo/chunks/chunk_",
+  "suggested_filename": "Snispoof.mp4"
+}
